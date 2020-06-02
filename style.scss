@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    align-items: center;
+    display: flex;
+    background: rgba(242,246,248,1);height: 90vh;
+    padding-top: 5vh;
+ 
+
+    canvas{
+        border: 1px solid #fff;
+        border-left: none;
+        border-right : none;
+         background-image: linear-gradient(to right top, #e1e194, #d0d484, #bfc875, #adbc66, #9cb057);
+        image-rendering: pixelated;
+        height: 100%;
+        margin: 0 auto;
+
+        
+
+    }
+}
